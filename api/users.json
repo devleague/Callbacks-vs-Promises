@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "54a87432d4748b107ee05577",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "name": "Sweeney Todd",
+    "gender": "male",
+    "email": "sweeneytodd@kraggle.com",
+    "address": "432 Cameron Court, Harleigh, Ohio, 9408",
+    "friends": [
+      "54a874f4ede826566226539c",
+      "54a874f4fed4f9dfb2302da5"
+    ]
+  },
+  {
+    "_id": "54a87432d7f39c4b68fa296a",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "name": "Priscilla Cook",
+    "gender": "female",
+    "email": "priscillacook@kraggle.com",
+    "address": "197 Hastings Street, Roeville, Rhode Island, 9824",
+    "friends": [
+      "54a874f4ede826566226539c",
+      "54a874f4fed4f9dfb2302da5",
+      "54a874f4aff72093f5232e2e",
+      "54a874f47f5cba12211f0d2c"
+    ]
+  },
+  {
+    "_id": "54a87432e63ad7681596af57",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "name": "Sharron Hull",
+    "gender": "female",
+    "email": "sharronhull@kraggle.com",
+    "address": "433 Greenwood Avenue, Foscoe, Colorado, 5588",
+    "friends": [
+      "54a874f4ede826566226539c",
+      "54a874f4fed4f9dfb2302da5",
+      "54a874f4aff72093f5232e2e",
+      "54a874f47f5cba12211f0d2c"
+    ]
+  },
+  {
+    "_id": "54a874323ccec46ac5b6a956",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "name": "Ashlee Aguilar",
+    "gender": "female",
+    "email": "ashleeaguilar@kraggle.com",
+    "address": "771 Colby Court, Iola, Oregon, 4242",
+    "friends": [
+      "54a874f4ede826566226539c",
+      "54a874f4fed4f9dfb2302da5",
+      "54a874f4aff72093f5232e2e",
+      "54a874f47f5cba12211f0d2c"
+    ]
+  },
+  {
+    "_id": "54a8743285f71e41ef0caced",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "name": "Arnold Lindsey",
+    "gender": "male",
+    "email": "arnoldlindsey@kraggle.com",
+    "address": "822 Everett Avenue, Aguila, Maine, 2746",
+    "friends": [
+      "54a874f4ede826566226539c",
+      "54a874f4fed4f9dfb2302da5",
+      "54a874f4aff72093f5232e2e",
+      "54a874f47f5cba12211f0d2c"
+    ]
+  },
+  {
+    "_id": "54a874328bbb81d524b6cc52",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "name": "Fisher Humphrey",
+    "gender": "male",
+    "email": "fisherhumphrey@kraggle.com",
+    "address": "389 Stryker Street, Libertytown, West Virginia, 8624",
+    "friends": [
+      "54a874f4ede826566226539c",
+      "54a874f4fed4f9dfb2302da5",
+      "54a874f4aff72093f5232e2e",
+      "54a874f47f5cba12211f0d2c"
+    ]
+  },
+  {
+    "_id": "54a874320aa2a92cdb3c7aa2",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "name": "Glass House",
+    "gender": "male",
+    "email": "glasshouse@kraggle.com",
+    "address": "876 Drew Street, Tilden, Nebraska, 9573",
+    "friends": [
+      "54a874f4ede826566226539c",
+      "54a874f4fed4f9dfb2302da5",
+      "54a874f4aff72093f5232e2e",
+      "54a874f47f5cba12211f0d2c"
+    ]
+  }
+]

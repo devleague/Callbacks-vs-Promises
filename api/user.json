@@ -1,0 +1,14 @@
+{
+  "_id": "54a87432d4748b107ee05577",
+  "isActive": false,
+  "picture": "http://placehold.it/32x32",
+  "age": 29,
+  "name": "Sweeney Todd",
+  "gender": "male",
+  "email": "sweeneytodd@kraggle.com",
+  "address": "432 Cameron Court, Harleigh, Ohio, 9408",
+  "friends": [
+    "54a874f4ede826566226539c",
+    "54a874f4fed4f9dfb2302da5"
+  ]
+}
