@@ -27,8 +27,8 @@ create `js/promises.js` source file
 
 ## Goals
 
-1. get user by id
-2. get first of friend ids
+1. get user from `/api/user.json`
+2. get first id of user friend ids
 3. get friend from api
 4. get image for friend
 5. render image to page
